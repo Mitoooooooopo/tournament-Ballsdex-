@@ -1,4 +1,3 @@
-# ballsdx/packages/tournament/cog.py
 import logging
 import random
 import re
