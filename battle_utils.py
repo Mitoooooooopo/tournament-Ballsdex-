@@ -1,4 +1,3 @@
-# ballsdex/packages/tournament/battle_utils.py
 from dataclasses import dataclass, field
 import random
 
