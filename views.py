@@ -1,4 +1,3 @@
-# ballsdex/packages/tournament/views.py
 import logging
 from typing import TYPE_CHECKING
 
